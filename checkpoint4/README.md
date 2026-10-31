@@ -41,7 +41,7 @@ Las pruebas corresponden a la instancia original. El archivo público no contien
 
 ## Evidencias
 
-Las siguientes imágenes están incluidas en el [paquete descargable de evidencias](../../releases) o se pueden añadir manualmente a `checkpoint4/evidencias/` para verlas en GitHub. **La carga de capturas todavía está pendiente**.
+Las siguientes imágenes están preparadas en el paquete ZIP del TP4. Para verlas directamente en GitHub, hay que subirlas manualmente a `checkpoint4/evidencias/`. **La carga de capturas todavía está pendiente**.
 
 | Archivo preparado | Contenido |
 |---|---|
