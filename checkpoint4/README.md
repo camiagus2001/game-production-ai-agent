@@ -41,17 +41,17 @@ Las pruebas corresponden a la instancia original. El archivo público no contien
 
 ## Evidencias
 
-Las siguientes imágenes están preparadas en el paquete ZIP del TP4. Para verlas directamente en GitHub, hay que subirlas manualmente a `checkpoint4/evidencias/`. **La carga de capturas todavía está pendiente**.
+Las siete capturas de evidencia ya están publicadas en esta misma carpeta `checkpoint4/` y se pueden abrir desde los enlaces siguientes.
 
 | Archivo preparado | Contenido |
 |---|---|
-| `01_workflow_completo.png` | Arquitectura TP3 + integraciones TP4 |
-| `02_credenciales_oauth2.png` | Lista de Salesforce, Gmail y Slack OAuth2 |
-| `03_filtro_auto_reply_bloqueado.png` | False Branch del IF anti auto-reply |
-| `04_gmail_borrador_creado.png` | Borrador confirmado por Gmail |
-| `05_notificacion_slack.png` | Aviso enviado a `#general` |
-| `06_prueba_integral_workflow.png` | Prueba de extremo a extremo |
-| `07_prueba_integral_slack.png` | Notificación de la prueba integral |
+| [`01_workflow_completo.png`](./01_workflow_completo.png) | Arquitectura TP3 + integraciones TP4 |
+| [`02_credenciales_oauth2.png`](./02_credenciales_oauth2.png) | Lista de Salesforce, Gmail y Slack OAuth2 |
+| [`03_filtro_auto_reply_bloqueado.png`](./03_filtro_auto_reply_bloqueado.png) | False Branch del IF anti auto-reply |
+| [`04_gmail_borrador_creado.png`](./04_gmail_borrador_creado.png) | Borrador confirmado por Gmail |
+| [`05_notificacion_slack.png`](./05_notificacion_slack.png) | Aviso enviado a `#general` |
+| [`06_prueba_integral_workflow.png`](./06_prueba_integral_workflow.png) | Prueba de extremo a extremo |
+| [`07_prueba_integral_slack.png`](./07_prueba_integral_slack.png) | Notificación de la prueba integral |
 
 ## Archivo e importación
 
